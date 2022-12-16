@@ -21,3 +21,6 @@ see repository. Ordered from newest on top and oldest on bottom
 ## git diff OR git diff \<commit log:e91552c5605b4ba44e299f054f0175ded5adc015>
 shows you the differences edite file or edits in file. 
 type git diff in terminal after an edit or use git log and select a commit log id number
+
+## git branch -D \<my branch>
+Deletes branch
